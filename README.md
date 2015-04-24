@@ -21,6 +21,7 @@ Current support for this app is:
 Development
 ------------------
 
+```bash
 $ git clone <repo url> /path/to/dump/repo
 $ cd /path/to/repo
 
@@ -45,10 +46,11 @@ $ bower install
 $ grunt serve
 
 # Start coding! :D
-
+```
 Standardize Development
 ----------------------------------
 
+```bash
 # Install NodeJS (http://nodejs.org)
 # Install Yeoman (http://yeoman.io)
 $ npm install -g yo
@@ -64,6 +66,7 @@ $ mv server/api/path/to/endpoint server/api/new/path/to/endpoint
 $ yo angular-fullstack:route myRoute
 
 # See https://github.com/DaftMonk/generator-angular-fullstack#generators for full list.
+```
 
 Testing
 --------
@@ -74,7 +77,7 @@ $ grunt test
 
 Production
 ---------------
-
+```bash
 # Build for production
 $ grunt
 # If the build hangs on testing try this instead.
@@ -99,10 +102,10 @@ $ node server/app.js
 $ export IP=127.0.0.1
 $ export PORT=9000
 $ forever start server/app.js
-
+```
 Heroku Production
 --------------------------
-
+```bash
 # Build for production
 $ grunt
 # If the build hangs on testing try this instead.
@@ -129,6 +132,7 @@ git commit -m "My message"
 git push heroku master
 
 # View Site! :)
+```
 
 License
 -----------
