@@ -1,0 +1,5 @@
+module.exports = {
+  twitchtv: {
+    client_id: '' // The client id generated from Twitch.TV (http://www.twitch.tv/kraken/oauth2/clients)
+  }
+};

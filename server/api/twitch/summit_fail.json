@@ -1,0 +1,7 @@
+{
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/summit1g",
+    "channel": "https://api.twitch.tv/kraken/channels/summit1g"
+  },
+  "stream": null
+}

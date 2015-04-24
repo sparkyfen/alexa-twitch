@@ -1,0 +1,58 @@
+{
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/summit1g",
+    "channel": "https://api.twitch.tv/kraken/channels/summit1g"
+  },
+  "stream": {
+    "_id": 14128271120,
+    "game": "Grand Theft Auto V",
+    "viewers": 18443,
+    "created_at": "2015-04-23T18:22:06Z",
+    "video_height": 720,
+    "average_fps": 59.9599032843,
+    "_links": {
+      "self": "http://api.twitch.tv/kraken/streams/summit1g"
+    },
+    "preview": {
+      "small": "http://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-80x45.jpg",
+      "medium": "http://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg",
+      "large": "http://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-640x360.jpg",
+      "template": "http://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-{width}x{height}.jpg"
+    },
+    "channel": {
+      "_links": {
+        "self": "https://api.twitch.tv/kraken/channels/summit1g",
+        "follows": "https://api.twitch.tv/kraken/channels/summit1g/follows",
+        "commercial": "https://api.twitch.tv/kraken/channels/summit1g/commercial",
+        "stream_key": "https://api.twitch.tv/kraken/channels/summit1g/stream_key",
+        "chat": "https://api.twitch.tv/kraken/chat/summit1g",
+        "features": "https://api.twitch.tv/kraken/channels/summit1g/features",
+        "subscriptions": "https://api.twitch.tv/kraken/channels/summit1g/subscriptions",
+        "editors": "https://api.twitch.tv/kraken/channels/summit1g/editors",
+        "videos": "https://api.twitch.tv/kraken/channels/summit1g/videos",
+        "teams": "https://api.twitch.tv/kraken/channels/summit1g/teams"
+      },
+      "background": null,
+      "banner": "http://static-cdn.jtvnw.net/jtv_user_pictures/summit1g-channel_header_image-de83f6bc163a608e-640x125.jpeg",
+      "broadcaster_language": "en",
+      "display_name": "summit1g",
+      "game": "Grand Theft Auto V",
+      "logo": "http://static-cdn.jtvnw.net/jtv_user_pictures/summit1g-profile_image-1cf38b42b1545fd7-300x300.jpeg",
+      "mature": true,
+      "status": "GTA 10Mil Challenge w/ @summit1g.",
+      "partner": true,
+      "url": "http://www.twitch.tv/summit1g",
+      "video_banner": "http://static-cdn.jtvnw.net/jtv_user_pictures/summit1g-channel_offline_image-25cfec5e3524db83-640x360.jpeg",
+      "_id": 26490481,
+      "name": "summit1g",
+      "created_at": "2011-12-01T06:33:31Z",
+      "updated_at": "2015-04-23T23:15:44Z",
+      "delay": 0,
+      "followers": 766904,
+      "profile_banner": null,
+      "profile_banner_background_color": null,
+      "views": 50198310,
+      "language": "en"
+    }
+  }
+}
